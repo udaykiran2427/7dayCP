@@ -1,0 +1,1 @@
+- [Day 1 – Setting the Foundation 🚀](day1.md)
