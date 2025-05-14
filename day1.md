@@ -25,10 +25,10 @@ Pick **one language** that you’ll use. Preferably:
 
 Create your accounts on these competitive programming platforms:
 
-- [ ] [Codeforces](https://codeforces.com/)
-- [ ] [LeetCode](https://leetcode.com/)
-- [ ] [CodeChef](https://www.codechef.com/)
-- [ ] [HackerRank](https://www.hackerrank.com/)
+- <input type="checkbox"> [Codeforces](https://codeforces.com/)
+- <input type="checkbox"> [LeetCode](https://leetcode.com/)
+- <input type="checkbox"> [CodeChef](https://www.codechef.com/)
+- <input type="checkbox"> [HackerRank](https://www.hackerrank.com/)
 
 > 👉 **Tag the college** wherever possible (e.g., Codeforces, HackerRank).
 
