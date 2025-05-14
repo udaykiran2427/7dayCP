@@ -24,11 +24,11 @@ Pick **one language** that you’ll use. Preferably:
 ## ⚙️ Step 2: Create Your Accounts
 
 Create your accounts on these competitive programming platforms:
+
 - <input type="checkbox" id="account1"> <a href="https://codeforces.com/">Codeforces</a><br>
 - <input type="checkbox" id="account2"> <a href="https://leetcode.com/">LeetCode</a><br>
 - <input type="checkbox" id="account3"> <a href="https://www.codechef.com/">CodeChef</a><br>
 - <input type="checkbox" id="account4"> <a href="https://www.hackerrank.com/">HackerRank</a><br>
-
 
 > 👉 **Tag the college** wherever possible (e.g., Codeforces, HackerRank).
 
@@ -98,18 +98,19 @@ Practice the basics of your chosen language (STL/collections included):
 > Participating honestly is the only way to truly improve. Cheating ruins your learning journey and disrespects the spirit of competitive programming. You owe it to yourself to try, fail, and grow.
 
 ### 🎯 Contest Schedule:
-| Platform   | Contest Name                                                           | Time & Date                | Duration     |
-| ---------- | ---------------------------------------------------------------------- | -------------------------- | ------------ |
-| CodeChef   | [Starters 186](https://www.codechef.com/START186B)                     | Wed, 14 May 2025 – 8:00 PM | 2 hours      |
-| Codeforces | [CF Round (Div. 2)](https://codeforces.com/contests)                   | Sat, 17 May 2025 – 8:05 PM | 2 hours      |
-| AtCoder    | [Beginner Contest 406](https://atcoder.jp/contests/abc406)             | Sat, 17 May 2025 – 5:30 PM | 1 hr 40 mins |
-| LeetCode   | [Weekly Contest 450](https://leetcode.com/contest/weekly-contest-450/) | Sun, 18 May 2025 – 8:00 AM | 1.5 hours    |
 
+| Platform   | Contest Name                                                               | Time & Date                | Duration      |
+| ---------- | -------------------------------------------------------------------------- | -------------------------- | ------------- |
+| CodeChef   | [**Starters 186**](https://www.codechef.com/START186B)                     | Wed, 14 May 2025 – 8:00 PM | 2 hours       |
+| Codeforces | [**CF Round (Div. 2)**](https://codeforces.com/contests)                   | Sat, 17 May 2025 – 8:05 PM | 2 hours       |
+| AtCoder    | [**Beginner Contest 406**](https://atcoder.jp/contests/abc406)             | Sat, 17 May 2025 – 5:30 PM | 1 hour 40 min |
+| LeetCode   | [**Weekly Contest 450**](https://leetcode.com/contest/weekly-contest-450/) | Sun, 18 May 2025 – 8:00 AM | 1.5 hours     |
 
 > ✅ **Mandatory:** Participate in **CodeChef Starters 186**  
 > 🔥 **Highly Recommended:** Register for all other contests too.
 
 ---
+
 <h2>📌 Day 1 Task Checklist</h2>
 
 - <input type="checkbox" id="task1"> Chose a programming language and watched its one-shot video<br>
