@@ -24,10 +24,10 @@ Pick **one language** that you’ll use. Preferably:
 ## ⚙️ Step 2: Create Your Accounts
 
 Create your accounts on these competitive programming platforms:
-- <input type="checkbox"> <a href="https://codeforces.com/">Codeforces</a><br>
-- <input type="checkbox"> <a href="https://leetcode.com/">LeetCode</a><br>
-- <input type="checkbox"> <a href="https://www.codechef.com/">CodeChef</a><br>
-- <input type="checkbox"> <a href="https://www.hackerrank.com/">HackerRank</a><br>
+- <input type="checkbox" id="account1"> <a href="https://codeforces.com/">Codeforces</a><br>
+- <input type="checkbox" id="account2"> <a href="https://leetcode.com/">LeetCode</a><br>
+- <input type="checkbox" id="account3"> <a href="https://www.codechef.com/">CodeChef</a><br>
+- <input type="checkbox" id="account4"> <a href="https://www.hackerrank.com/">HackerRank</a><br>
 
 
 > 👉 **Tag the college** wherever possible (e.g., Codeforces, HackerRank).
@@ -53,8 +53,8 @@ Choose a local IDE or use an online judge.
 
 ## 📚 Step 4: Learn Language + Tools
 
-- <input type="checkbox"> Watch your language's one-shot tutorial.<br>
-- <input type="checkbox"> Learn your language’s built-in data structures.<br>
+- <input type="checkbox" id="learn1"> Watch your language's one-shot tutorial.<br>
+- <input type="checkbox" id="learn2"> Learn your language’s built-in data structures.<br>
 
 ### STL / Collections / Built-ins
 
@@ -112,23 +112,26 @@ Practice the basics of your chosen language (STL/collections included):
 ---
 <h2>📌 Day 1 Task Checklist</h2>
 
-- <input type="checkbox"> Chose a programming language and watched its one-shot video<br>
-- <input type="checkbox"> Learned syntax and STL / collections<br>
-- <input type="checkbox"> Set up an IDE or online judge<br>
-- <input type="checkbox"> Created accounts on Codeforces, LeetCode, CodeChef, HackerRank<br>
-- <input type="checkbox"> Tagged your college wherever possible<br>
-- <input type="checkbox"> Solved beginner-level problems<br>
-- <input type="checkbox"> Participated in <strong>CodeChef Starters 186</strong><br>
-- <input type="checkbox"> Registered for all upcoming contests<br>
+- <input type="checkbox" id="task1"> Chose a programming language and watched its one-shot video<br>
+- <input type="checkbox" id="task2"> Learned syntax and STL / collections<br>
+- <input type="checkbox" id="task3"> Set up an IDE or online judge<br>
+- <input type="checkbox" id="task4"> Created accounts on Codeforces, LeetCode, CodeChef, HackerRank<br>
+- <input type="checkbox" id="task5"> Tagged your college wherever possible<br>
+- <input type="checkbox" id="task6"> Solved beginner-level problems<br>
+- <input type="checkbox" id="task7"> Participated in <strong>CodeChef Starters 186</strong><br>
+- <input type="checkbox" id="task8"> Registered for all upcoming contests<br>
 
----
 <script>
   document.addEventListener("DOMContentLoaded", function () {
-    const checkbox = document.getElementById("task1");
-    checkbox.checked = localStorage.getItem("task1") === "true";
-
-    checkbox.addEventListener("change", function () {
-      localStorage.setItem("task1", checkbox.checked);
+    const checkboxes = document.querySelectorAll('input[type="checkbox"]');
+    checkboxes.forEach((checkbox) => {
+      const isChecked = localStorage.getItem(checkbox.id) === "true";
+      checkbox.checked = isChecked;
+    });
+    checkboxes.forEach((checkbox) => {
+      checkbox.addEventListener("change", function () {
+        localStorage.setItem(checkbox.id, checkbox.checked);
+      });
     });
   });
 </script>
