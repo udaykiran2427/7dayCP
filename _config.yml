@@ -5,3 +5,6 @@ remote_theme: pages-themes/hacker@v0.2.0
 
 plugins:
   - jekyll-remote-theme
+
+footer:
+  text: "Maintained by [udaykiran2427's GitHub](https://github.com/udaykiran2427)"
