@@ -53,8 +53,8 @@ Choose a local IDE or use an online judge.
 
 ## 📚 Step 4: Learn Language + Tools
 
-- [ ] Watch your language's one-shot tutorial.
-- [ ] Learn your language’s built-in data structures:
+- <input type="checkbox"> Watch your language's one-shot tutorial.<br>
+- <input type="checkbox"> Learn your language’s built-in data structures.<br>
 
 ### STL / Collections / Built-ins
 
