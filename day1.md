@@ -123,3 +123,13 @@ Practice the basics of your chosen language (STL/collections included):
 - [ ] Registered for all upcoming contests
 
 ---
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const checkbox = document.getElementById("task1");
+    checkbox.checked = localStorage.getItem("task1") === "true";
+
+    checkbox.addEventListener("change", function () {
+      localStorage.setItem("task1", checkbox.checked);
+    });
+  });
+</script>
