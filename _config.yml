@@ -1,7 +1,7 @@
 title: "CP Summer Camp"
 description: "7-Day Competitive Programming"
 
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: "jekyll/minima@1e8a445"
 
 plugins:
   - jekyll-remote-theme
