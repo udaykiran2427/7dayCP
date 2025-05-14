@@ -110,17 +110,16 @@ Practice the basics of your chosen language (STL/collections included):
 > 🔥 **Highly Recommended:** Register for all other contests too.
 
 ---
+<h2>📌 Day 1 Task Checklist</h2>
 
-## 📌 Day 1 Task Checklist
-
-- [ ] Chose a programming language and watched its one-shot video
-- [ ] Learned syntax and STL / collections
-- [ ] Set up an IDE or online judge
-- [ ] Created accounts on Codeforces, LeetCode, CodeChef, HackerRank
-- [ ] Tagged your college wherever possible
-- [ ] Solved beginner-level problems
-- [ ] Participated in **CodeChef Starters 186**
-- [ ] Registered for all upcoming contests
+- <input type="checkbox"> Chose a programming language and watched its one-shot video<br>
+- <input type="checkbox"> Learned syntax and STL / collections<br>
+- <input type="checkbox"> Set up an IDE or online judge<br>
+- <input type="checkbox"> Created accounts on Codeforces, LeetCode, CodeChef, HackerRank<br>
+- <input type="checkbox"> Tagged your college wherever possible<br>
+- <input type="checkbox"> Solved beginner-level problems<br>
+- <input type="checkbox"> Participated in <strong>CodeChef Starters 186</strong><br>
+- <input type="checkbox"> Registered for all upcoming contests<br>
 
 ---
 <script>
