@@ -101,10 +101,10 @@ Practice the basics of your chosen language (STL/collections included):
 
 | Platform   | Contest Name             | Time & Date                | Duration      |
 | ---------- | ------------------------ | -------------------------- | ------------- |
-| CodeChef   | **Starters 186**         | Wed, 14 May 2025 – 8:00 PM | 2 hours       |
-| Codeforces | **CF Round (Div. 2)**    | Sat, 17 May 2025 – 8:05 PM | 2 hours       |
-| AtCoder    | **Beginner Contest 406** | Sat, 17 May 2025 – 5:30 PM | 1 hour 40 min |
-| LeetCode   | **Weekly Contest 450**   | Sun, 18 May 2025 – 8:00 AM | 1.5 hours     |
+| CodeChef   | [**Starters 186**](https://www.codechef.com/START186B)        | Wed, 14 May 2025 – 8:00 PM | 2 hours       |
+| Codeforces | [**CF Round (Div. 2)**](https://codeforces.com/contests)    | Sat, 17 May 2025 – 8:05 PM | 2 hours       |
+| AtCoder    | [**Beginner Contest 406**](https://atcoder.jp/contests/abc406) | Sat, 17 May 2025 – 5:30 PM | 1 hour 40 min |
+| LeetCode   | [**Weekly Contest 450**](https://leetcode.com/contest/weekly-contest-450/)  | Sun, 18 May 2025 – 8:00 AM | 1.5 hours     |
 
 > ✅ **Mandatory:** Participate in **CodeChef Starters 186**  
 > 🔥 **Highly Recommended:** Register for all other contests too.
