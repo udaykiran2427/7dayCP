@@ -24,11 +24,11 @@ Pick **one language** that you’ll use. Preferably:
 ## ⚙️ Step 2: Create Your Accounts
 
 Create your accounts on these competitive programming platforms:
+- <input type="checkbox"> <a href="https://codeforces.com/">Codeforces</a><br>
+- <input type="checkbox"> <a href="https://leetcode.com/">LeetCode</a><br>
+- <input type="checkbox"> <a href="https://www.codechef.com/">CodeChef</a><br>
+- <input type="checkbox"> <a href="https://www.hackerrank.com/">HackerRank</a><br>
 
-- <input type="checkbox"> [Codeforces](https://codeforces.com/)
-- <input type="checkbox"> [LeetCode](https://leetcode.com/)
-- <input type="checkbox"> [CodeChef](https://www.codechef.com/)
-- <input type="checkbox"> [HackerRank](https://www.hackerrank.com/)
 
 > 👉 **Tag the college** wherever possible (e.g., Codeforces, HackerRank).
 
