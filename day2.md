@@ -69,4 +69,4 @@
 
 Join our **Discord Doubt Channel** anytime if you get stuck—we’re here to mentor you step-by-step!
 
-[![Join us on Discord](https://img.icons8.com/color/48/discord-logo.png)](https://discord.gg/mhSD2dsW)
+[![Join us on Discord](https://img.icons8.com/color/48/discord-logo.png)](https://discord.gg/D3jDzyAE)
