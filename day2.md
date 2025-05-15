@@ -1,4 +1,4 @@
-# 🧭 Day 2:Time Complexity & Math Foundations
+# 🧭 Day 2: Time Complexity & Math Foundations
 
 ---
 
