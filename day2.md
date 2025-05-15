@@ -17,14 +17,14 @@
 
 ### 🛠️ Step 2: Practice Analysis
 
-* <input type="checkbox" id="tc-task1"> Solve time-complexity practice problems on GFG
+- [x] Solve time-complexity practice problems on GFG  
   ▶️ [GFG Practice](https://www.geeksforgeeks.org/practice-questions-time-complexity-analysis/)
 
 ### Checklist
 
-* <input type="checkbox" id="tc-check1"> Watched both YouTube tutorials<br>
-* <input type="checkbox" id="tc-check2"> Read the GeeksforGeeks article<br>
-* <input type="checkbox" id="tc-check3"> Completed at least 5 GFG practice problems
+- [x] Watched both YouTube tutorials  
+- [x] Read the GeeksforGeeks article  
+- [x] Completed at least 5 GFG practice problems
 
 ---
 
@@ -43,20 +43,20 @@
 
 ### 🛠️ Step 2: Practice Problems
 
-* <input type="checkbox" id="math-task1"> Solve "Number Groups" on HackerRank
-  ▶️ [HackerRank](https://www.hackerrank.com/challenges/number-groups/problem?isFullScreen=true)<br>
-* <input type="checkbox" id="math-task2"> Solve Codeforces Group problems A–D:<br>
+- [x] Solve "Number Groups" on HackerRank  
+  ▶️ [HackerRank](https://www.hackerrank.com/challenges/number-groups/problem?isFullScreen=true)
+- [x] Solve Codeforces Group problems A–D:
 
-  * A: <a href="https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/A">Problem A</a><br>
-  * B: <a href="https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/B">Problem B</a><br>
-  * C: <a href="https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/C">Problem C</a><br>
-  * D: <a href="https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/D">Problem D</a>
+  * A: [Problem A](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/A)  
+  * B: [Problem B](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/B)  
+  * C: [Problem C](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/C)  
+  * D: [Problem D](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/D)
 
 ### Checklist
 
-* <input type="checkbox" id="math-check1"> Watched YouTube intro & read HackerEarth<br>
-* <input type="checkbox" id="math-check2"> Completed HackerRank problem<br>
-* <input type="checkbox" id="math-check3"> Solved all 4 Codeforces problems
+- [x] Watched YouTube intro & read HackerEarth  
+- [x] Completed HackerRank problem  
+- [x] Solved all 4 Codeforces problems
 
 ---
 
