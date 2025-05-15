@@ -76,6 +76,8 @@ Join our **Discord Doubt Channel** anytime if you get stuck—we’re here to me
 
 [![Join us on Discord](https://img.icons8.com/color/48/discord-logo.png)](https://discord.gg/D3jDzyAE)
 
+> contributed by [charanreddy-git](https://github.com/charanreddy-git/)
+
 <script>
   document.addEventListener("DOMContentLoaded", function () {
     const checkboxes = document.querySelectorAll('input[type="checkbox"]');
