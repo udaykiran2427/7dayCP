@@ -11,20 +11,20 @@
 
 ### 🎥 Tutorials (One-Shot Style)
 
-* 🔗 **Big O, Ω, Θ** (YouTube): [Watch here](https://youtu.be/BgLTDT03QtU?si=pDBp_gP-8CJX5sz1)
-* 🔗 **Time Complexity Simplified** (YouTube): [Watch here](https://youtu.be/FPu9Uld7W-E?si=OoljMO03zzKBCaDg)
+* 🔗 **Big O, Ω, Θ** (YouTube): [Watch here](https://youtu.be/FPu9Uld7W-E?si=OoljMO03zzKBCaDg)
+* 🔗 **Time Complexity Simplified** (YouTube): [Watch here](https://youtu.be/BgLTDT03QtU?si=pDBp_gP-8CJX5sz1)
 * 🔗 **GeeksforGeeks Overview**: [Read here](https://www.geeksforgeeks.org/time-complexity-and-space-complexity/)
 
 ### 🛠️ Step 2: Practice Analysis
 
-- [x] Solve time-complexity practice problems on GFG  
+- <input type="checkbox" id="day2_time_gfg"> Solve time-complexity practice problems on GFG  
   ▶️ [GFG Practice](https://www.geeksforgeeks.org/practice-questions-time-complexity-analysis/)
 
 ### Checklist
 
-- [x] Watched both YouTube tutorials  
-- [x] Read the GeeksforGeeks article  
-- [x] Completed at least 5 GFG practice problems
+- <input type="checkbox" id="day2_time_tutorials"> Watched both YouTube tutorials  
+- <input type="checkbox" id="day2_time_gfg_article"> Read the GeeksforGeeks article  
+- <input type="checkbox" id="day2_time_gfg_practice"> Completed at least 5 GFG practice problems
 
 ---
 
@@ -43,9 +43,9 @@
 
 ### 🛠️ Step 2: Practice Problems
 
-- [x] Solve "Number Groups" on HackerRank  
+- <input type="checkbox" id="day2_math_hackerrank"> Solve "Number Groups" on HackerRank  
   ▶️ [HackerRank](https://www.hackerrank.com/challenges/number-groups/problem?isFullScreen=true)
-- [x] Solve Codeforces Group problems A–D:
+- <input type="checkbox" id="day2_math_codeforces_ad"> Solve Codeforces Group problems A–D:
 
   * A: [Problem A](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/A)  
   * B: [Problem B](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/B)  
@@ -54,9 +54,9 @@
 
 ### Checklist
 
-- [x] Watched YouTube intro & read HackerEarth  
-- [x] Completed HackerRank problem  
-- [x] Solved all 4 Codeforces problems
+- <input type="checkbox" id="day2_math_tutorials"> Watched YouTube intro & read HackerEarth  
+- <input type="checkbox" id="day2_math_hackerrank_problem"> Completed HackerRank problem  
+- <input type="checkbox" id="day2_math_codeforces_problems"> Solved all 4 Codeforces problems
 
 ---
 
@@ -70,3 +70,18 @@
 Join our **Discord Doubt Channel** anytime if you get stuck—we’re here to mentor you step-by-step!
 
 [![Join us on Discord](https://img.icons8.com/color/48/discord-logo.png)](https://discord.gg/D3jDzyAE)
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const checkboxes = document.querySelectorAll('input[type="checkbox"]');
+    checkboxes.forEach((checkbox) => {
+      const isChecked = localStorage.getItem(checkbox.id) === "true";
+      checkbox.checked = isChecked;
+    });
+    checkboxes.forEach((checkbox) => {
+      checkbox.addEventListener("change", function () {
+        localStorage.setItem(checkbox.id, checkbox.checked);
+      });
+    });
+  });
+</script>
