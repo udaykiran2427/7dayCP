@@ -1,1 +1,2 @@
 - [Day 1 – Setting the Foundation 🚀](day1.md)
+- [Day 2 and 3 - Introduction to Time Complexity and Math](day2.md)
