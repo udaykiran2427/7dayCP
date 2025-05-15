@@ -68,18 +68,3 @@
 ## 🔔 Need Help?
 
 Join our **Discord Doubt Channel** anytime if you get stuck—we’re here to mentor you step-by-step!
-
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const boxes = document.querySelectorAll('input[type="checkbox"]');
-    boxes.forEach(b => {
-      const saved = localStorage.getItem(b.id) === "true";
-      b.checked = saved;
-    });
-    boxes.forEach(b => {
-      b.addEventListener('change', () => {
-        localStorage.setItem(b.id, b.checked);
-      });
-    });
-  });
-</script>
