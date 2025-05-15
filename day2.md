@@ -2,6 +2,10 @@
 
 ---
 
+> 💡 **Reminder:** If you feel you haven't practiced your chosen programming language enough, feel free to revisit [Day 1](./day1.md) and solve more problems from the lists provided there before diving deep into today's topics.
+
+---
+
 ## Time Complexity – Analyzing Algorithms
 
 ### Step 1: Understand Key Concepts
