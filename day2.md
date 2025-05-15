@@ -15,10 +15,11 @@
 
 ### 🎥 Tutorials (One-Shot Style)
 
-•⁠  ⁠🔗 Time & Space Complexity Basics (YouTube): [Watch here](https://youtu.be/FPu9Uld7W-E?si=OoljMO03zzKBCaDg)
-•⁠  ⁠🔗 Time Complexity Simplified (YouTube): [Watch here](https://youtu.be/BgLTDT03QtU?si=pDBp_gP-8CJX5sz1)
-•⁠  ⁠🔗 Advanced Time Complexity & Recurrence Practice (YouTube): [Watch here](https://youtu.be/mV3wrLBbuuE?si=B7hoH7QktEYJhaYq)
-•⁠  ⁠🔗 Time & Space Complexity Overview (GeeksforGeeks): [Read here](https://www.geeksforgeeks.org/time-complexity-and-space-complexity/)
+* 🔗 **Time & Space Complexity Basics** (YouTube): [Watch here](https://youtu.be/FPu9Uld7W-E?si=OoljMO03zzKBCaDg)
+* 🔗 **Time Complexity Simplified** (YouTube): [Watch here](https://youtu.be/BgLTDT03QtU?si=pDBp_gP-8CJX5sz1)
+* 🔗 **Advanced Time Complexity & Recurrence Practice** (YouTube): [Watch here](https://youtu.be/mV3wrLBbuuE?si=B7hoH7QktEYJhaYq)
+* 🔗 **Time & Space Complexity Overview** (GeeksforGeeks): [Read here](https://www.geeksforgeeks.org/time-complexity-and-space-complexity/)
+
 ### 🛠️ Step 2: Practice Analysis
 
 - <input type="checkbox" id="day2_time_gfg"> Solve time-complexity practice problems on GFG  
