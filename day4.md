@@ -1,7 +1,26 @@
+<style>
+  input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+    transition: box-shadow 0.3s ease, background-color 0.3s ease;
+  }
+
+  input[type="checkbox"]:hover {
+    box-shadow: 0 0 5px 2px rgba(59, 130, 246, 0.6);
+    background-color: rgba(59, 130, 246, 0.1);
+  }
+
+  input[type="checkbox"]:focus-visible {
+    outline: 2px solid rgba(59, 130, 246, 0.8);
+    outline-offset: 2px;
+  }
+</style>
+
 # 🧭 Day 4: Prefix Sum
 
 ## 📅 Reminder  
-> 🚨 **AtCoder Contest today at 5:30 PM** — Don't miss it! Try to apply prefix sum knowledge if any relevant problems come up.
+> 🚨 **AtCoder Contest today at 5:30 PM** [[**Beginner Contest 406**](https://atcoder.jp/contests/abc406)] - Don't miss it! Try to apply prefix sum knowledge if any relevant problems come up.
 
 ---
 
@@ -19,10 +38,10 @@ It is a powerful technique to answer range queries in constant time after linear
 ---
 
 ## 🎥 Tutorials
-- 🔗 **Introduction & Definition** : [Watch here](https://www.youtube.com/watch?v=yuws7YK0Yng)  
-- 🔗 **Implementation & Approaches** : [Read here](https://takeuforward.org/data-structure/prefix-sum-technique/)  
-- 🔗 **Introduction & Problems (C++ & Python)** *(Optional)* : [Watch here](https://youtu.be/PhgtNY_-CiY?si=VmPhhwEYHh-L5GZU)  
-- 🔗 **Implementation & Applications** *(Script)* : [Read here](https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/)  
+- <input type="checkbox" id="f"> 🔗 **Introduction & Definition** : [Watch here](https://www.youtube.com/watch?v=yuws7YK0Yng)  
+- <input type="checkbox" id="g"> 🔗 **Implementation & Approaches** : [Read here](https://takeuforward.org/data-structure/prefix-sum-technique/)  
+- <input type="checkbox" id="h"> 🔗 **Introduction & Problems (C++ & Python)** *(Optional)* : [Watch here](https://youtu.be/PhgtNY_-CiY?si=VmPhhwEYHh-L5GZU)  
+- <input type="checkbox" id="i"> 🔗 **Implementation & Applications** *(Script)* : [Read here](https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/)  
 
 ---
 
@@ -94,11 +113,11 @@ It is a powerful technique to answer range queries in constant time after linear
 
 ## ✅ Checklist
 
-- Understood the definition and concept of prefix sum  
-- Practiced problems across all 5 key topics (range sum, subarray, 2D, custom sum, balance index)  
-- Explored both video and article tutorials for prefix sum  
-- Learned at least 3 real-world applications of prefix sum  
-- Solved easy & medium-level problems on LeetCode, GFG, CodeChef, and Codeforces  
+- <input type="checkbox" id="a"> Understood the definition and concept of prefix sum  
+- <input type="checkbox" id="b">Practiced problems across all 5 key topics (range sum, subarray, 2D, custom sum, balance index)  
+- <input type="checkbox" id="c">Explored both video and article tutorials for prefix sum  
+- <input type="checkbox" id="d">Learned at least 3 real-world applications of prefix sum  
+- <input type="checkbox" id="e">Solved easy & medium-level problems on LeetCode, GFG, CodeChef, and Codeforces  
 
 ---
 
@@ -114,3 +133,19 @@ Join our **Discord Doubt Channel** anytime if you get stuck — we’re here to 
 
 [![Join us on Discord](https://img.icons8.com/color/48/discord-logo.png)](https://discord.gg/D3jDzyAE)
 
+> Contributed by [parthu-333](https://github.com/parthu-333)
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const checkboxes = document.querySelectorAll('input[type="checkbox"]');
+    checkboxes.forEach((checkbox) => {
+      const isChecked = localStorage.getItem(checkbox.id) === "true";
+      checkbox.checked = isChecked;
+    });
+    checkboxes.forEach((checkbox) => {
+      checkbox.addEventListener("change", function () {
+        localStorage.setItem(checkbox.id, checkbox.checked);
+      });
+    });
+  });
+</script>
