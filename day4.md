@@ -51,7 +51,7 @@ It is a powerful technique to answer range queries in constant time after linear
 
 | Difficulty | Problem | Platform | Link |
 |------------|---------|----------|------|
-| Easy       | Range Sum Query | GFG | [🔗 Link](https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/) |
+| Easy       | Range Sum Query | GFG | [🔗 Link](https://www.geeksforgeeks.org/problems/range-sum-queries2353/0) |
 | Easy       | Range Sum Query - Immutable | LeetCode | [🔗 Link](https://leetcode.com/problems/range-sum-query-immutable/) |
 | Medium     | Range Sum | Codeforces | [🔗 Link](https://codeforces.com/problemset/problem/817/C) |
 
@@ -63,7 +63,6 @@ It is a powerful technique to answer range queries in constant time after linear
 |------------|---------|----------|------|
 | Easy       | Subarray with Given Sum | GFG | [🔗 Link](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0) |
 | Medium     | Subarray Sum Equals K | LeetCode | [🔗 Link](https://leetcode.com/problems/subarray-sum-equals-k/) |
-| Medium     | The Two Dishes | CodeChef | [🔗 Link](https://www.codechef.com/problems/TWODISHES) *(prefix thinking variant)* |
 
 ---
 
@@ -82,7 +81,6 @@ It is a powerful technique to answer range queries in constant time after linear
 |------------|---------|----------|------|
 | Easy       | Sum of All Odd Length Subarrays | LeetCode | [🔗 Link](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) |
 | Medium     | XOR Queries of a Subarray | LeetCode | [🔗 Link](https://leetcode.com/problems/xor-queries-of-a-subarray/) |
-| Medium     | Chef and Interesting Subsequences | CodeChef | [🔗 Link](https://www.codechef.com/problems/CIELNUM1) |
 
 ---
 
